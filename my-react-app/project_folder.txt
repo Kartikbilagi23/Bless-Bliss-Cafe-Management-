@@ -1,0 +1,19 @@
+src/
+├─ assets/
+│  └─ images/
+├─ components/
+│  ├─ Navbar.jsx
+│  ├─ Banner.jsx
+│  ├─ About.jsx
+│  ├─ CoffeeOffer.jsx
+│  ├─ ClientReview.jsx
+│  ├─ Blog.jsx
+│  ├─ Contact.jsx
+│  └─ Footer.jsx
+├─ pages/
+│  ├─ Home.jsx
+│  ├─ AboutPage.jsx
+│  ├─ MenuPage.jsx
+│  └─ ContactPage.jsx
+├─ App.jsx
+└─ main.jsx
