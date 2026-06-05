@@ -52,14 +52,17 @@ cafe-project/
 ### **1. Login Page**
 ![Login Page](login.png)
 
+### **2. Home Page**
+![Menu Page](menu-page.jpeg)
+
 ### **2. Menu Page**
-![Menu Page](menu.png)
+![Menu Page](home-page.jpeg)
 
 ### **3. Cart Page**
-![Cart](cart.png)
+![Cart](xyz)
 
 ### **4. Order Summary**
-![Order Summary](order-summary.png)
+![Order Summary](abc)
 
 ## 🔧 Installation & Setup
 
